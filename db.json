@@ -18,7 +18,7 @@
                 "type": "Point",
                 "coordinates": [-74.0060, 40.7128]
             },
-            "tracker": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+            "tracker": "b53ab59b-18ec-452a-b8f5-bc03a9b223d0",
             "status": 1,
             "updatedAt": "2023-10-01T12:34:56Z"
         },
@@ -62,7 +62,7 @@
                 "type": "Point",
                 "coordinates": [-87.6298, 41.8781]
             },
-            "tracker": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8g",
+            "tracker": "9a95120d-4d57-4d4c-8160-0fef5aa2f14d",
             "status": 1,
             "updatedAt": "2023-10-05T14:22:10Z"
         },
